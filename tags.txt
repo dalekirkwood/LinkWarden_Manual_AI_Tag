@@ -1,0 +1,50 @@
+# Technology
+programming
+python
+javascript
+docker
+kubernetes
+linux
+devops
+cloud
+aws
+database
+
+# Development
+frontend
+backend
+web
+api
+security
+testing
+git
+
+# Business
+startup
+marketing
+productivity
+finance
+management
+
+# Education
+tutorial
+course
+documentation
+learning
+guide
+
+# Media
+video
+audio
+podcast
+music
+books
+
+# Personal
+health
+fitness
+cooking
+travel
+photography
+
+
