@@ -33,7 +33,7 @@ Automatically tag your LinkWarden bookmarks using AI-powered tag suggestions! Th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/linkwarden-tagger.git
+   git clone https://github.com/dalekirkwood/LinkWarden_Manual_AI_Tag
    cd linkwarden-tagger
    ```
 
